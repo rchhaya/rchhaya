@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rchhaya/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rchhaya/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
