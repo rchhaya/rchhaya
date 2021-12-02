@@ -1,4 +1,4 @@
-### Hi there 👋
+### 2021 Wrapped
 
 <!--
 **rchhaya/rchhaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-2021 Wrapped: 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rchhaya/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
